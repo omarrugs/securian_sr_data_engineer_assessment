@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,date_of_birth,gender,city
+C001,John,Doe,john.doe@example.com,416-555-1234,1980-05-14,M,Toronto
+C002,Jane,Smith,jane.smith@example.com,613-555-5678,1975-09-30,F,Ottawa
+C003,Michael,Brown,michael.brown@example,514-555-9012,1990/12/22,M,Montreal
+C004,Emily,Davis,,403-555-3456,1988-03-10,F,Calgary
+C005,Daniel,Lee,daniel.lee@example.com,604-555-7890,1995-07-05,M,Vancouver
+C006,Sarah,Wilson,sarah.wilson@example.com,902-555-1111,1982-08-19,F,Halifax
+C007,David,Clark,david.clark@example.com,780-555-2222,1979-11-02,M,Edmonton
+C008,Amanda,Hall,amanda.hall@example.com,204-555-3333,1993-04-17,F,Winnipeg
+C009,Chris,Allen,chris.allen@example.com,418-555-4444,1985-06-25,M,Quebec City
+C010,Natalie,Young,natalie.young@example.com,306-555-5555,1991-01-30,F,Regina
+C011,Kevin,Scott,kevin.scott@example.com,709-555-6666,1983-03-12,M,St. John's
+C012,Laura,Green,laura.green@example.com,,1977-07-08,F,Victoria
+C013,Justin,King,justin.king@example.com,306-555-8888,1996-09-14,X,Saskatoon
+C014,Olivia,Adams,olivia.adams@example.com,519-555-9999,1989-02-27,F,London
+C015,Brian,Baker,brian.baker@example.com,905-555-0000,1984-12-05,M,Brampton
+C016,Grace,Campbell,grace.campbell@example.com,289-555-1212,1992-10-11,F,Mississauga
+C017,Eric,Mitchell,eric.mitchell@example.com,705-555-2323,1986-05-22,M,Kingston
+C018,Chloe,Roberts,chloe.roberts@example.com,705-555-2323,1994-03-03,F,Barrie
+C019,Jason,Turner,jason.turner@example.com,519-555-3434,1981-06-16,M,Kitchener
+C020,Chris,Allen,chris.allen@example.com,418-555-4444,1985-06-25,M,Quebec City

@@ -1,0 +1,51 @@
+claim_id,policy_id,claim_date,claim_amount,claim_status,claim_reason
+CL001,P1001,2022-05-10,3000.00,Approved,Collision
+CL002,P1002,2021-12-01,15000.00,Rejected,Fire
+CL003,P1003,2022-07-22,5000.00,Approved,Illness
+CL004,P1004,2022-10-05,2000.00,Pending,Theft
+CL005,P1001,2022-11-15,1200.00,Approved,Glass Damage
+CL006,P1005,2022-01-18,8000.00,Approved,Flood
+CL007,P1006,2022-02-15,500.00,Approved,Trip Cancellation
+CL008,P1007,2021-09-12,1200.00,Declined,Pet Surgery
+CL009,P1008,2022-06-20,3100.00,Approved,Collision
+CL010,P1009,2021-02-14,7000.00,Approved,Heart Surgery
+CL011,P1010,2022-03-01,2200.00,Approved,Unknown
+CL012,P1001,2022-05-10,,Approved,Collision
+CL013,P1011,2023-03-01,1800.00,Under Review,Rear-End Collision
+CL014,P1012,2022-06-15,4000.00,Approved,Stroke
+CL015,P1013,2021-08-15,3900.00,Approved,Fire
+CL016,P1014,2022-11-11,3100.00,Approved,Trip Delay
+CL017,P1015,2023-01-05,2700.00,Approved,Equipment Damage
+CL018,P9999,2023-02-01,4500.00,Approved,Collision
+CL019,P1002,2022-03-03,4600.00,Rejected,Water Damage
+CL020,P1003,2022-09-09,3500.00,Approved,Illness
+CL021,P1016,2022-04-12,2900.00,Approved,Collision
+CL022,P1017,2022-05-18,3100.00,Rejected,Fire
+CL023,P1018,2022-06-25,2700.00,Approved,Illness
+CL024,P1019,2022-07-30,3300.00,Pending,Theft
+CL025,P1020,2022-08-15,4100.00,Approved,Flood
+CL026,P1021,2022-09-10,500.00,Approved,Trip Cancellation
+CL027,P1022,2022-10-05,1200.00,Rejected,Pet Surgery
+CL028,P1023,2022-11-20,3100.00,Approved,Collision
+CL029,P1024,2022-12-01,7000.00,Approved,Heart Surgery
+CL030,P1025,2023-01-10,2200.00,Approved,Unknown
+CL031,P1026,2023-02-14,,Approved,Collision
+CL032,P1027,2023-03-01,1800.00,Under Review,Rear-End Collision
+CL033,P1028,2023-03-15,4000.00,Approved,Stroke
+CL034,P1029,2023-04-01,3900.00,Approved,Fire
+CL035,P1030,2023-04-10,3100.00,Approved,Trip Delay
+CL036,P1001,2023-04-20,2700.00,Approved,Equipment Damage
+CL037,P1002,2023-05-01,4500.00,Approved,Collision
+CL038,P1003,2023-05-12,4600.00,Rejected,Water Damage
+CL039,P1004,2023-05-25,3500.00,Approved,Illness
+CL040,P1005,2023-06-01,2900.00,Approved,Collision
+CL041,P1006,2023-06-10,3100.00,Rejected,Fire
+CL042,P1007,2023-06-18,2700.00,Approved,Illness
+CL043,P1008,2023-06-25,3300.00,Pending,Theft
+CL044,P1009,2023-07-01,4100.00,Approved,Flood
+CL045,P1010,2023-07-08,500.00,Approved,Trip Cancellation
+CL046,P1011,2023-07-15,1200.00,Rejected,Pet Surgery
+CL047,P1012,2023-07-22,3100.00,Approved,Collision
+CL048,P1013,2023-07-29,7000.00,Approved,Heart Surgery
+CL049,P1014,2023-08-05,2200.00,Approved,Unknown
+CL050,P1015,2023-08-12,1800.00,Under Review,Rear-End Collision
