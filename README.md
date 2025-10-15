@@ -1,4 +1,3 @@
-
 # 🧪 Senior Data Engineer Interview Challenge
 
 Welcome to the hands-on technical challenge for the Senior Data Engineer position. This exercise is designed to evaluate your ability to build a robust data pipeline using Python and real-world data.
@@ -24,20 +23,24 @@ Build a data pipeline that ingests, cleans, transforms, and analyzes the provide
 ## 🛠️ Tasks
 
 ### 1. Data Ingestion
-- Load the three CSV files using `pandas`.
+- Load the three CSV files into a data frame 
 - Validate schema consistency and handle missing or malformed data.
+  -  document your findings, and explain your results  
 
 ### 2. Data Cleaning
-- Normalize inconsistent formats (e.g., dates, phone numbers).
-- Handle missing values appropriately.
-- Deduplicate records where necessary.
+- Clean the data by doing the folloing, store any invalid records in a seperate data frame 
+  - Normalize inconsistent formats (e.g., dates, phone numbers).
+  - Handle missing values appropriately.
+  -  Deduplicate records where necessary.
+ 
 
 ### 3. Data Transformation
-- Join datasets using `customer_id` and `policy_id`.
-- Derive new fields:
+- Merge all 3 datasets using `customer_id` and `policy_id` into a new data frame.
+- Derive 3 new fields in the new data frame:
   - Time between policy start and first claim.
-  - Total and average claim amount per customer.
-  - Flag policies with suspicious values (e.g., negative premiums).
+  - Total claim amount per customer.
+  - Average claim amount per customer.
+
 
 ### 4. Data Analysis
 - Generate summary metrics:
@@ -46,7 +49,7 @@ Build a data pipeline that ingests, cleans, transforms, and analyzes the provide
   - Top 5 customers by total claim amount.
 
 ### 5. Bonus (Optional)
-- Write the cleaned and transformed data to a PostgreSQL or Redshift database.
+- Write the cleaned and transformed data from step 3 to a PostgreSQL or Redshift database.
 - Create visualizations using `Matplotlib` or `Plotly`.
 
 ---
@@ -63,10 +66,11 @@ Build a data pipeline that ingests, cleans, transforms, and analyzes the provide
 
 ## 📦 Submission Instructions
 
-- Submit your Python script(s) and any supporting files.
-- Include a brief README explaining your approach and assumptions.
-- If you use a database or visualization, include setup instructions.
+- We will be booking a 30 min session to dicsuss your solution
+- Be prepared to explain all steps and answer any questions we may have.
 
 ---
 
 Good luck! We look forward to reviewing your solution.
+README_DataEngineer_Challenge.md
+Displaying README_DataEngineer_Challenge.md.
